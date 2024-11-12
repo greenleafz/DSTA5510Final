@@ -47,9 +47,9 @@ Future studies could explore larger diagnostic datasets or investigate deep lear
 
 To run the notebook, install the following libraries:
 
-\`\`\`bash
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn scipy
-\`\`\`
+```
 
 ## Usage
 
